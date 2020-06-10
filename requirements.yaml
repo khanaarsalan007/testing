@@ -1,0 +1,4 @@
+requirement:
+- condition: nginx-deployment.enabled
+  name: nginx-deployment
+  version: v1

@@ -1,0 +1,10 @@
+env: null
+image:
+  image: nginx:1.14.2
+  imagePullSecrets: null
+ports: null
+prob:
+  livenessProbe: null
+  readinessProbe: null
+replicas: 1
+resources: {}
